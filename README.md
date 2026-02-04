@@ -18,7 +18,7 @@ Whether it's a complex feature, a single bug fix, or just a boring documentation
 | Date | Task / Small Win | Status |
 | :--- | :--- | :---: |
 | 2026-02-03 | Initialized repo and wrote the README | ✅ |
-| 2026-02-04 |  |  |
+| 2026-02-04 | Tested Codex recently released by google to enhance a website for one of my clients | ✅ |
 | 2026-02-25 | *Your next small win goes here...* | ⏳ |
 
 ---
