@@ -19,9 +19,8 @@ Whether it's a complex feature, a single bug fix, or just a boring documentation
 | :--- | :--- | :---: |
 | 2026-02-03 | Initialized repo and wrote the README | ✅ |
 | 2026-02-04 | Tested Codex recently released by google to enhance a website for one of my clients | ✅ |
-| 2026-02-05 |  | ⏳ |
-| 2026-02-06 |  | ⏳ |
-| 2026-02-07 |  | ⏳ |
+| 2026-02-12 | Continued Using Docker labs | ⏳ |
+
 
 
 ---
